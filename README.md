@@ -1,4 +1,4 @@
-# AIStartups
+# AI Startups
 - Palantir：https://www.palantir.com/ 
 
 - 第四范式：http://www.4paradigm.com/ ：戴文渊CEO
@@ -14,6 +14,10 @@
 - AlchemyAPI：http://www.alchemyapi.com/ ， deep learning、NLP等的API，demo也不错。
 
 - Ersatz：http://www.ersatz1.com/ ， deep learning解决客户的问题。
+
+- Semantic Machines： http://www.semanticmachines.com/  自动问答和对话
+
+- 明略数据：http://www.mininglamp.com/index 
 
 - Cortica ： Cortica提供专业级的图像识别技术，它的原理是仿照人类在识别图像时大脑皮质中神经网络的图像处理的方式。它的联合创始人兼CEO Igal Raichelgauz称，这项技术源自他之前在以色列理工学院的实验室，对于大脑组织的研究。该公司将他们的产品出售给出版商和广告商，用以展示与页面图片内容相关的广告内容
 
@@ -117,4 +121,4 @@ Narrative Science于 2010 年 1 月 1 月在芝加哥成立，致力于通过多
 
 - https://www.metamind.io/ ，斯坦福深度学习博士Richard Socher貌似并未直接赶赴普林斯顿大学担任教职，而是在硅谷进行深度学习创业，目前得到800万美金的资金支持。据其介绍，其网站能通过点鼠标以及托、拉、提、拽的操作进行深度学习模型训练。DEMO: http://t.cn/RzKkWDY Wired:http://t.cn/RzKkWDl
 
-- Semantic Machines： http://www.semanticmachines.com/  自动问答和对话
+
