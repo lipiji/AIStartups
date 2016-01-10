@@ -1,7 +1,7 @@
 # AI Startups
 - Palantir：https://www.palantir.com/ 
 
-- 第四范式：http://www.4paradigm.com/ ：戴文渊CEO
+- 第四范式：http://www.4paradigm.com/ ：戴文渊、杨强教授
 
 - 文因互联（Memect）： http://memect.com/ 
 
