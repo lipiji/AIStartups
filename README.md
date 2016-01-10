@@ -1,8 +1,9 @@
 # AIStartups
+- Palantir：https://www.palantir.com/ 
 
-- 第四范式：戴文渊。
+- 第四范式：http://www.4paradigm.com/ ：戴文渊CEO
 
-- weibo:@好东西传送门
+- 文因互联（Memect）： http://memect.com/ 
 
 - 八友科技：梁斌
 
@@ -115,3 +116,5 @@ narrativescience http://www.narrativescience.com/
 Narrative Science于 2010 年 1 月 1 月在芝加哥成立，致力于通过多重数据源为用户自动生成可读性文本。今日，它宣布已在 11 月 28 日完成 1000 万美元 D 轮融资，投资方包括：Sapphire Ventures、Jump Capital、Battery Ventures，以及 The United Services Automobile Association 旗下的某机构——公司 6 轮募资的总额已达到 3240 万美元。
 
 - https://www.metamind.io/ ，斯坦福深度学习博士Richard Socher貌似并未直接赶赴普林斯顿大学担任教职，而是在硅谷进行深度学习创业，目前得到800万美金的资金支持。据其介绍，其网站能通过点鼠标以及托、拉、提、拽的操作进行深度学习模型训练。DEMO: http://t.cn/RzKkWDY Wired:http://t.cn/RzKkWDl
+
+- Semantic Machines： http://www.semanticmachines.com/  自动问答和对话
