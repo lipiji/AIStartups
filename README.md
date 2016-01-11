@@ -116,8 +116,8 @@
 - http://www.looker.com/   商业智能
 
 - Equivio：http://www.equivio.com/ ，Equivio是一家提供有关法律合规的文本分析方案的公司。Equivio为法律领域提供一种名为Zoom的机器学习平台，该平台已通过法院审核，它改变了电子取证的业务流程。现在Zoom正在领导着信息治理的转型。Zoom的用户包括数百家龙头企业，律师事务所与**莫谈国事**机构。Zoom在有效整理所收集文件的同时，也量化与可视化了各机构的决策空间。所以你可以通过Zoom以微观和宏观的方式来查你所需。
-narrativescience http://www.narrativescience.com/
-Narrative Science于 2010 年 1 月 1 月在芝加哥成立，致力于通过多重数据源为用户自动生成可读性文本。今日，它宣布已在 11 月 28 日完成 1000 万美元 D 轮融资，投资方包括：Sapphire Ventures、Jump Capital、Battery Ventures，以及 The United Services Automobile Association 旗下的某机构——公司 6 轮募资的总额已达到 3240 万美元。
+
+- narrativescience http://www.narrativescience.com/ , Narrative Science于 2010 年 1 月 1 月在芝加哥成立，致力于通过多重数据源为用户自动生成可读性文本。今日，它宣布已在 11 月 28 日完成 1000 万美元 D 轮融资，投资方包括：Sapphire Ventures、Jump Capital、Battery Ventures，以及 The United Services Automobile Association 旗下的某机构——公司 6 轮募资的总额已达到 3240 万美元。
 
 - https://www.metamind.io/ ，斯坦福深度学习博士Richard Socher貌似并未直接赶赴普林斯顿大学担任教职，而是在硅谷进行深度学习创业，目前得到800万美金的资金支持。据其介绍，其网站能通过点鼠标以及托、拉、提、拽的操作进行深度学习模型训练。DEMO: http://t.cn/RzKkWDY Wired:http://t.cn/RzKkWDl
 
