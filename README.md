@@ -19,6 +19,8 @@
 
 - 明略数据：http://www.mininglamp.com/index 
 
+- GrowingIO：https://www.growingio.com/ ，一个网站和移动端数据分析平台，通过数据分析驱动企业决策
+
 - Cortica ： Cortica提供专业级的图像识别技术，它的原理是仿照人类在识别图像时大脑皮质中神经网络的图像处理的方式。它的联合创始人兼CEO Igal Raichelgauz称，这项技术源自他之前在以色列理工学院的实验室，对于大脑组织的研究。该公司将他们的产品出售给出版商和广告商，用以展示与页面图片内容相关的广告内容
 
 - Semantria：总部位于马萨诸塞州艾摩斯特市，它是文本分析老将Lexalytics的一款副产品，他通过API和Excel插件实现功能，而不需要安装软件。它的创始人兼CEO Oleg Rogynskyy称，公司通过整合更多深度学习的方法和扩展除维基百科（Lexalytics 引擎获取语义知识的地方）之外的数据源，来提高服务的精度
