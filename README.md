@@ -19,6 +19,8 @@
 
 - 明略数据：http://www.mininglamp.com/index 
 
+- 图森：http://www.tusimple.com/ ，图森是一家位于中国北京和美国圣迭戈的人工智能广告公司。由中国连续创业者和美国顶尖院校科学家共同创办。图森是图片内嵌原生广告的缔造者——我们根据互联网媒体上的图片和文字内容信息及用户行为，自动将合适的广告以原生的方式植入图片内，实现一种全新、高效的广告投放。  @winsty 大神在。
+
 - GrowingIO：https://www.growingio.com/ ，一个网站和移动端数据分析平台，通过数据分析驱动企业决策
 
 - Cortica ： Cortica提供专业级的图像识别技术，它的原理是仿照人类在识别图像时大脑皮质中神经网络的图像处理的方式。它的联合创始人兼CEO Igal Raichelgauz称，这项技术源自他之前在以色列理工学院的实验室，对于大脑组织的研究。该公司将他们的产品出售给出版商和广告商，用以展示与页面图片内容相关的广告内容
@@ -116,6 +118,8 @@
 - http://www.zestfinance.com/  大数据金融风控
 
 - http://www.looker.com/   商业智能
+
+- LookPre：http://www.lookpre.com/ ，Look for miracles from Pre-data.
 
 - Equivio：http://www.equivio.com/ ，Equivio是一家提供有关法律合规的文本分析方案的公司。Equivio为法律领域提供一种名为Zoom的机器学习平台，该平台已通过法院审核，它改变了电子取证的业务流程。现在Zoom正在领导着信息治理的转型。Zoom的用户包括数百家龙头企业，律师事务所与**莫谈国事**机构。Zoom在有效整理所收集文件的同时，也量化与可视化了各机构的决策空间。所以你可以通过Zoom以微观和宏观的方式来查你所需。
 
