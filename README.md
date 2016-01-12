@@ -1,11 +1,31 @@
 # AI Startups
-- Palantir：https://www.palantir.com/ 
+与人工智能相关的创业公司或团队。
 
+### 国内
 - 第四范式：http://www.4paradigm.com/ ：戴文渊、杨强教授
 
 - 文因互联（Memect）： http://memect.com/ 
 
 - 八友科技：梁斌
+
+- 明略数据：http://www.mininglamp.com/index 
+
+- 普林科技：http://www.princetechs.com/ ， 普林科技是一家专业从事大数据建模与分析，为金融、移动运营商、交通物流、医疗卫生等相关领域客户提供服务的咨询服务公司。普林科技在北京、上海均设有办事处，并拥有位于美国普林斯顿的研发中心，公司核心成员均拥有世界顶尖高校教育背景及顶级大数据企业工作经历，涵盖国际应用数学、计算机和金融领域专家。http://www.xtecher.com/Website/Article/view?aid=100 
+
+- 图森：http://www.tusimple.com/ ，图森是一家位于中国北京和美国圣迭戈的人工智能广告公司。由中国连续创业者和美国顶尖院校科学家共同创办。图森是图片内嵌原生广告的缔造者——我们根据互联网媒体上的图片和文字内容信息及用户行为，自动将合适的广告以原生的方式植入图片内，实现一种全新、高效的广告投放。  @winsty 大神在。
+
+- TalkingData: https://www.talkingdata.net/ ，北京腾云天下科技公司的产品，这是一家专注于移动互联网综合数据服务的创业公司，几位创始人以前都是Oracle的同事。
+
+- 格林深瞳：http://deepglint.com/
+
+- DataStory数说故事：http://www.datastory.com.cn/ ， 
+
+- http://www.sensetime.com/ ，香港中文大学Prof. Xiaoou Tang实验室的计算机视觉和机器学习startup。该实验室cv技术一流。
+
+- 车瑞科技：http://www.cherui.cn/ ，基于视觉的行车安全。
+
+### 国外
+- Palantir：https://www.palantir.com/ 
 
 - Everstring：http://www.everstring.com/ ， 团队很强大。
 
@@ -16,12 +36,6 @@
 - Ersatz：http://www.ersatz1.com/ ， deep learning解决客户的问题。
 
 - Semantic Machines： http://www.semanticmachines.com/  自动问答和对话
-
-- 明略数据：http://www.mininglamp.com/index 
-
-- 普林科技：http://www.princetechs.com/ ， 普林科技是一家专业从事大数据建模与分析，为金融、移动运营商、交通物流、医疗卫生等相关领域客户提供服务的咨询服务公司。普林科技在北京、上海均设有办事处，并拥有位于美国普林斯顿的研发中心，公司核心成员均拥有世界顶尖高校教育背景及顶级大数据企业工作经历，涵盖国际应用数学、计算机和金融领域专家。http://www.xtecher.com/Website/Article/view?aid=100 
-
-- 图森：http://www.tusimple.com/ ，图森是一家位于中国北京和美国圣迭戈的人工智能广告公司。由中国连续创业者和美国顶尖院校科学家共同创办。图森是图片内嵌原生广告的缔造者——我们根据互联网媒体上的图片和文字内容信息及用户行为，自动将合适的广告以原生的方式植入图片内，实现一种全新、高效的广告投放。  @winsty 大神在。
 
 - GrowingIO：https://www.growingio.com/ ，一个网站和移动端数据分析平台，通过数据分析驱动企业决策
 
@@ -56,8 +70,6 @@
 - Granify 和 Commerce Sciences 都算和识别潜在消费顾客的服务，是为了促进销售的。而另一方面，如果能识别出欺诈用户，那则是可帮电商企业降低风险。欺诈识别这个领域国内有 Xiaoclick 在做，国外公司则有Signifyd和Sift Science。
 
 - 0xdata：http://0xdata.com/ ，H2O makes hadoop do math! H2O scales statistics, machine learning and math over BigData. H2O is extensible and users can build blocks using simple math legos in the core. H2O keeps familiar interfaces like R, Excel & JSON so that big data enthusiasts & & experts can explore, munge, model and score datasets using a range of simple to advanced algorithms. Data collection is easy. Decision making is hard. H2O makes it fast and easy to derive insights from your data through faster and better predictive modeling. H2O has a vision of online scoring and modeling in a single platform.
-
-- TalkingData: https://www.talkingdata.net/ ，北京腾云天下科技公司的产品，这是一家专注于移动互联网综合数据服务的创业公司，几位创始人以前都是Oracle的同事。
 
 - Alpine：http://alpinenow.com/ ，Alpine Data Labs是在大数据时代中弄潮的最新一家初创企业，该公司刚刚获得了 1600 万美元的融资，此轮融资由 Sierra Ventures、Mission Ventures 等提供。
 
@@ -99,17 +111,11 @@
 
 - Guidewave consulting LLC http://guidewaveconsulting.com/ ，还记得那篇用twitter中用户的情绪来预测股市的paper么，Twitter mood predicts the stock market，这就是作者成立的公司了。
 
-- 格林深瞳：http://deepglint.com/
-
 - Nara：http://www.nara.me/    餐馆推荐
 
 - http://www.recommind.com/ ，PLSA作者。
 
-- http://www.sensetime.com/ ，香港中文大学Prof. Xiaoou Tang实验室的计算机视觉和机器学习startup。该实验室cv技术一流。
-
 - http://www.wiseathena.com ，Big data startup Wise Athena has presented this week their novel approach to churn prediction based on deep learning technology. This way, the San Francisco based company becomes the first company to apply deep learning to customer churn prediction.
-
-- 车瑞科技：http://www.cherui.cn/ ，基于视觉的行车安全。
 
 - Persado   http://www.persado.com/ ，用机器来写广告的 Persado 刚刚获得了 2100 万美元的 B 轮融资。
 
@@ -121,7 +127,6 @@
 
 - http://www.looker.com/   商业智能
 
-- LookPre：http://www.lookpre.com/ ，Look for miracles from Pre-data.
 
 - Equivio：http://www.equivio.com/ ，Equivio是一家提供有关法律合规的文本分析方案的公司。Equivio为法律领域提供一种名为Zoom的机器学习平台，该平台已通过法院审核，它改变了电子取证的业务流程。现在Zoom正在领导着信息治理的转型。Zoom的用户包括数百家龙头企业，律师事务所与**莫谈国事**机构。Zoom在有效整理所收集文件的同时，也量化与可视化了各机构的决策空间。所以你可以通过Zoom以微观和宏观的方式来查你所需。
 
