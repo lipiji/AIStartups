@@ -24,6 +24,8 @@
 
 - 车瑞科技：http://www.cherui.cn/ ，基于视觉的行车安全。
 
+- 范数科技：http://www.lpnorm.com/ ， 非结构化数据抽取
+
 ### 国外
 - Palantir：https://www.palantir.com/ 
 
