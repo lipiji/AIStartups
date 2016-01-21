@@ -29,11 +29,15 @@
 ### 国外
 - Palantir：https://www.palantir.com/ 
 
+- arria：http://www.arria.com/ ，自然语言生成。
+
+- AlchemyAPI：http://www.alchemyapi.com/ ， deep learning、NLP等的API，demo也不错。
+
+
 - Everstring：http://www.everstring.com/ ， 团队很强大。
 
 - Clarifai： http://www.clarifai.com/ ， CV领域的创业公司，基于DL的结果非常好，公司价值就不知道了。
 
-- AlchemyAPI：http://www.alchemyapi.com/ ， deep learning、NLP等的API，demo也不错。
 
 - Ersatz：http://www.ersatz1.com/ ， deep learning解决客户的问题。
 
@@ -107,8 +111,6 @@
 
 - http://emcien.com/ ，Predict what's next, discover hidden patterns and solve complex problems with Emcien's simple tools.
 
-- http://www.arria.com/ ，自然语言生成。
-
 - http://scyfer.nl/ ，Professor Max Welling参与的创业公司。
 
 - Guidewave consulting LLC http://guidewaveconsulting.com/ ，还记得那篇用twitter中用户的情绪来预测股市的paper么，Twitter mood predicts the stock market，这就是作者成立的公司了。
@@ -125,17 +127,17 @@
 
 - stitchfix.com：word2vec相关应用
 
-- http://www.zestfinance.com/  大数据金融风控
+- zestfinance：　http://www.zestfinance.com/  大数据金融风控
 
-- http://www.looker.com/   商业智能
+- looker：http://www.looker.com/   商业智能
 
 
 - Equivio：http://www.equivio.com/ ，Equivio是一家提供有关法律合规的文本分析方案的公司。Equivio为法律领域提供一种名为Zoom的机器学习平台，该平台已通过法院审核，它改变了电子取证的业务流程。现在Zoom正在领导着信息治理的转型。Zoom的用户包括数百家龙头企业，律师事务所与**莫谈国事**机构。Zoom在有效整理所收集文件的同时，也量化与可视化了各机构的决策空间。所以你可以通过Zoom以微观和宏观的方式来查你所需。
 
 - narrativescience http://www.narrativescience.com/ , Narrative Science于 2010 年 1 月 1 月在芝加哥成立，致力于通过多重数据源为用户自动生成可读性文本。今日，它宣布已在 11 月 28 日完成 1000 万美元 D 轮融资，投资方包括：Sapphire Ventures、Jump Capital、Battery Ventures，以及 The United Services Automobile Association 旗下的某机构——公司 6 轮募资的总额已达到 3240 万美元。
 
-- https://www.metamind.io/ ，斯坦福深度学习博士Richard Socher貌似并未直接赶赴普林斯顿大学担任教职，而是在硅谷进行深度学习创业，目前得到800万美金的资金支持。据其介绍，其网站能通过点鼠标以及托、拉、提、拽的操作进行深度学习模型训练。DEMO: http://t.cn/RzKkWDY Wired:http://t.cn/RzKkWDl
+- metamind ：https://www.metamind.io/ ，斯坦福深度学习博士Richard Socher貌似并未直接赶赴普林斯顿大学担任教职，而是在硅谷进行深度学习创业，目前得到800万美金的资金支持。据其介绍，其网站能通过点鼠标以及托、拉、提、拽的操作进行深度学习模型训练。DEMO: http://t.cn/RzKkWDY Wired:http://t.cn/RzKkWDl
 
 - Import.io：https://www.import.io/  ， Import.io 是一家大数据初创企业，成立于 2012年，总部位于英国伦敦。它的数据析取平台可以将网站、论坛等来源的结构化数据析取出来，供客户用于大数据分析。
 
-
+- Synapsify：http://www.gosynapsify.com/ ， 非结构化文本的观点提取， Synapsify构建了能在语义上阅读和学习类似人类书写内容的应用，可以用于加速发现、观点提取和建议。这家公司的愿景是让所有人都可以在没有技术专家和资源的情况下使用机器智能得到可操作的观点和发现，并从中受益。（from机器之心）
