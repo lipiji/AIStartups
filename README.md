@@ -36,6 +36,8 @@
 
 - Everstring：http://www.everstring.com/ ， 团队很强大。
 
+- Enlitic： http://www.enlitic.com/ ， Enlitic于2014年8月在三藩市成立，采用深度学习和图像分析帮助医生做出诊断并标记出医学图像中的异常，从而让医疗更加精确和更有效率。例如，Enlitic可以分析X光、核磁共振成像或CT扫描得到的医学图像，然后找出数据中的趋势或单个图像中的异常情况。
+
 - Clarifai： http://www.clarifai.com/ ， CV领域的创业公司，基于DL的结果非常好，公司价值就不知道了。
 
 
