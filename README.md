@@ -26,6 +26,8 @@
 
 - 范数科技：http://www.lpnorm.com/ ， 非结构化数据抽取
 
+- 思派网络：肿瘤数据银行 中国的“Flatiron” ，完成A轮逾千万美元融资-2016-01-28
+
 ### 国外
 - Palantir：https://www.palantir.com/ 
 
