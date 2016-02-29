@@ -29,7 +29,9 @@
 - 思派网络：肿瘤数据银行 中国的“Flatiron” ，完成A轮逾千万美元融资-2016-01-28
 
 ### 国外
-- Palantir：https://www.palantir.com/ 
+- Palantir：https://www.palantir.com/
+
+- MagicLeap ： http://www.magicleap.com/ ， 虚拟现实  增强现实
 
 - arria：http://www.arria.com/ ，自然语言生成。
 
