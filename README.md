@@ -149,3 +149,6 @@
 - Synapsify：http://www.gosynapsify.com/ ， 非结构化文本的观点提取， Synapsify构建了能在语义上阅读和学习类似人类书写内容的应用，可以用于加速发现、观点提取和建议。这家公司的愿景是让所有人都可以在没有技术专家和资源的情况下使用机器智能得到可操作的观点和发现，并从中受益。（from机器之心）
 
 - statmuse ： https://www.statmuse.com/ ， 帮助普通用户通过自然语言查询 NBA 数据的初创企业 StatMuse 刚刚获得了 1000 万美元的 A 轮融资。
+
+### 其他收集页
+- SIFT作者David Lowe收集的计算机视觉公司： The Computer Vision Industry - http://www.cs.ubc.ca/~lowe/vision.html  
