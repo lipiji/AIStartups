@@ -28,7 +28,7 @@
 
 - 车瑞科技：http://www.cherui.cn/ ，基于视觉的行车安全。
 
-- 范数科技：http://www.lpnorm.com/ ， 非结构化数据抽取
+- 范数科技：http://www.lpnorm.com/ ， 非结构化数据抽取   Founder：@丕子
 
 - 思派网络：肿瘤数据银行 中国的“Flatiron” ，完成A轮逾千万美元融资-2016-01-28
 
