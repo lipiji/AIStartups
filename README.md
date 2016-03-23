@@ -87,6 +87,8 @@
 
 - frrole：http://frrole.com/ ，Frrole helps media and brands discover the most insightful and relevant information from Twitter conversations.
 
+- Framed Data ： http://framed.io/ ，  Square 宣布正式收购数据服务工具 Framed Data 团队。Square 收购 Framed Data 的目的就在于此需要对每个客户进行详细的风险分析，并确定他们将要偿还贷款的利率是多少。Framed Data 此前获得过 200 万美元的种子轮融资，在做数据分析引擎，帮开发者了解用户行为。举例来说，开发者把应用的数据提交到 Framed Data 上，Framed Data 会使用一些机器学习模型来读取这些数据，进而描绘出用户的行为。当用户行为被描绘出来后，Framed Data 就可以把它和已经存在的用户数据库做对比，这样也就能利用过去的用户行为数据来识别出那些高风险、可能会离开的用户。在机器学习和数据科学领域，拿到的数据越多，精确程度自然就越高。 [2015-3-15]
+
 - http://rekognition.com ，从名字就看出是做什么的来了。。
 
 - AYLIEN：http://aylien.com/text-api ，人家的APi做的真好，还有商业化呢~
