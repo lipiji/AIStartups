@@ -135,6 +135,8 @@
 
 - http://www.wiseathena.com ，Big data startup Wise Athena has presented this week their novel approach to churn prediction based on deep learning technology. This way, the San Francisco based company becomes the first company to apply deep learning to customer churn prediction.
 
+- Open AI :　https://openai.com　，　advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return.
+
 - Persado   http://www.persado.com/ ，用机器来写广告的 Persado 刚刚获得了 2100 万美元的 B 轮融资。
 
 - Rubikloud's  http://rubikloud.com/
