@@ -20,11 +20,9 @@
 
 - Face++ : http://www.faceplusplus.com.cn/ ， 人脸识别
 
-- 商汤科技： http://www.sensetime.com/cn ， 香港中文大学汤晓鸥教授及其团队。
+- 商汤科技： http://www.sensetime.com/cn ， 香港中文大学汤晓鸥教授及其团队。该实验室cv技术一流。
 
 - DataStory数说故事：http://www.datastory.com.cn/ ， 
-
-- http://www.sensetime.com/ ，香港中文大学Prof. Xiaoou Tang实验室的计算机视觉和机器学习startup。该实验室cv技术一流。
 
 - 车瑞科技：http://www.cherui.cn/ ，基于视觉的行车安全。
 
