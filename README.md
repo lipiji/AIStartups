@@ -135,7 +135,9 @@
 
 - Open AI :　https://openai.com　，　advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return.
 
-- Persado   http://www.persado.com/ ，用机器来写广告的 Persado 刚刚获得了 2100 万美元的 B 轮融资。
+- Persado ：  http://www.persado.com/ ，用机器来写广告的 Persado 刚刚获得了 2100 万美元的 B 轮融资。
+
+- Predata ： http://www.predata.com/ ， 2016 年 4 月 7 日，据每日邮报报道，总部位于美国华盛顿的初创企业 Predata 宣称，其开发的“少数派报告”式软件可以精确预测发生下次恐怖袭击的几率。
 
 - Rubikloud's  http://rubikloud.com/
 
