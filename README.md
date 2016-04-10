@@ -49,6 +49,8 @@
 
 - Ersatz：http://www.ersatz1.com/ ， deep learning解决客户的问题。
 
+- Etleap ：http://etleap.com/　，　Etleap推出云端的数据清洗产品。 该公司的创始人曾经是VigLink的CTO， 深为理解工程师和分析师在数据ETL过程中花费的大量时间， 因此离职后创办了Etleap来解决这个痛点。　数据清洗这个领域的重头玩家当属Informatica, 今年早期私有化。Talend，聚焦在Hadoop的数据整合公司正在IPO准备当中。初创公司如Trifacta和Paxata在过去的两年中使得这个领域更加迷人。
+
 - Semantic Machines： http://www.semanticmachines.com/  自动问答和对话
 
 - GrowingIO：https://www.growingio.com/ ，一个网站和移动端数据分析平台，通过数据分析驱动企业决策
@@ -159,6 +161,8 @@
 - Synapsify：http://www.gosynapsify.com/ ， 非结构化文本的观点提取， Synapsify构建了能在语义上阅读和学习类似人类书写内容的应用，可以用于加速发现、观点提取和建议。这家公司的愿景是让所有人都可以在没有技术专家和资源的情况下使用机器智能得到可操作的观点和发现，并从中受益。（from机器之心）
 
 - statmuse ： https://www.statmuse.com/ ， 帮助普通用户通过自然语言查询 NBA 数据的初创企业 StatMuse 刚刚获得了 1000 万美元的 A 轮融资。
+
+- Trifacta ： https://www.trifacta.com/ ， 新闻:大数据清理软件公司Trifacta 融资3500 万美元 
 
 ### 其他收集页
 - SIFT作者David Lowe收集的计算机视觉公司： The Computer Vision Industry - http://www.cs.ubc.ca/~lowe/vision.html  
