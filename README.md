@@ -4,9 +4,7 @@
 ### 国内
 - 第四范式：http://www.4paradigm.com/ ：戴文渊、杨强教授
 
-- 文因互联（Memect）： http://memect.com/ 
-
-- 八友科技：梁斌
+- 商汤科技： http://www.sensetime.com/cn ， 香港中文大学汤晓鸥教授及其团队。该实验室cv技术一流。
 
 - 明略数据：http://www.mininglamp.com/index 
 
@@ -20,8 +18,6 @@
 
 - Face++ : http://www.faceplusplus.com.cn/ ， 人脸识别
 
-- 商汤科技： http://www.sensetime.com/cn ， 香港中文大学汤晓鸥教授及其团队。该实验室cv技术一流。
-
 - DataStory数说故事：http://www.datastory.com.cn/ ， 
 
 - 车瑞科技：http://www.cherui.cn/ ，基于视觉的行车安全。
@@ -29,6 +25,10 @@
 - 范数科技：http://www.lpnorm.com/ ， 非结构化数据抽取
 
 - 思派网络：肿瘤数据银行 中国的“Flatiron” ，完成A轮逾千万美元融资-2016-01-28
+ 
+- 文因互联（Memect）： http://memect.com/ 
+
+- 八友科技：梁斌
 
 ### 国外
 - Palantir：https://www.palantir.com/
