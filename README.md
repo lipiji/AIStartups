@@ -30,6 +30,8 @@
 
 - 八友科技：梁斌
 
+- 图普科技 ：https://open.tuputech.com/　，　基于深度学习的图像识别技术多维度解读图片和视频
+
 ### 国外
 - Palantir：https://www.palantir.com/
 
