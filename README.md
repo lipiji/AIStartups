@@ -22,13 +22,13 @@
 
 - 车瑞科技：http://www.cherui.cn/ ，基于视觉的行车安全。
 
-- 范数科技：http://www.lpnorm.com/ ， 非结构化数据抽取
+- 范数科技：http://www.lpnorm.com/ ， 2016年2月22号成立。
 
 - 思派网络：肿瘤数据银行 中国的“Flatiron” ，完成A轮逾千万美元融资-2016-01-28
  
 - 文因互联（Memect）： http://memect.cn/ 金融数据知识图谱，语义搜索引擎 
 
-- 八友科技：梁斌
+- 八友科技：梁斌，数据、分词等
 
 - 图普科技 ：https://open.tuputech.com/ , 基于深度学习的图像识别技术多维度解读图片和视频
 
