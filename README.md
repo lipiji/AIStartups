@@ -26,7 +26,7 @@
 
 - 思派网络：肿瘤数据银行 中国的“Flatiron” ，完成A轮逾千万美元融资-2016-01-28
  
-- 文因互联（Memect）： http://memect.com/ 
+- 文因互联（Memect）： http://memect.cn/ 金融数据知识图谱，语义搜索引擎 
 
 - 八友科技：梁斌
 
