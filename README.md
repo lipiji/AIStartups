@@ -2,6 +2,9 @@
 与人工智能相关的创业公司或团队。
 
 ### 国内
+
+- createamind.ai  weibo.com/createamind
+
 - 第四范式：http://www.4paradigm.com/ ：戴文渊、杨强教授
 
 - 商汤科技： http://www.sensetime.com/cn ， 香港中文大学汤晓鸥教授及其团队。该实验室cv技术一流。
