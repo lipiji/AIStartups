@@ -32,6 +32,8 @@
 
 - 图普科技 ：https://open.tuputech.com/ , 基于深度学习的图像识别技术多维度解读图片和视频
 
+- 玻森 ： http://bosonnlp.com/ ， 玻森中文语义开放平台提供使用简单、功能强大、性能可靠的中文自然语言分析云服务。
+
 ### 国外
 - Palantir：https://www.palantir.com/
 
