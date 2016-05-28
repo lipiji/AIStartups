@@ -43,6 +43,8 @@
 
 - AlchemyAPI：http://www.alchemyapi.com/ ， deep learning、NLP等的API，demo也不错。
 
+-  Alphasense： https://www.alpha-sense.com/ ， 是一个解决专业信息获取和碎片问题的金融搜索引擎。Alphasense面向金融投资领域，从文件/新闻和研究中集合所有投资信息并进行语义分析，在全球公司数据中进行趋势分析。其使命愿景是从大量噪音中寻找有价值的信息，专注信息丰富度和碎片化基本问题，从而大大提高金融人士的工作效率，节省工作时间。 from@文因互联
+
 
 - Everstring：http://www.everstring.com/ ， 团队很强大。
 
