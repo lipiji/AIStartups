@@ -34,6 +34,8 @@
 
 - 玻森 ： http://bosonnlp.com/ ， 玻森中文语义开放平台提供使用简单、功能强大、性能可靠的中文自然语言分析云服务。
 
+- 医渡云： http://www.yiducloud.com.cn/ ， 致力于通过世界领先的大数据技术，助力医院及医生，为患者提供更好的医疗服务
+
 ### 国外
 - Palantir：https://www.palantir.com/
 
