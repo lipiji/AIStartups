@@ -20,6 +20,8 @@
 
 - DataStory数说故事：http://www.datastory.com.cn/ ， 
 
+- DeepCare： http://www.deepcare.com/ ， 医疗
+
 - 车瑞科技：http://www.cherui.cn/ ，基于视觉的行车安全。
 
 - 范数科技：http://www.lpnorm.com/ ， 2016年2月22号成立。
