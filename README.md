@@ -139,6 +139,8 @@
 
 - Guidewave consulting LLC http://guidewaveconsulting.com/ ，还记得那篇用twitter中用户的情绪来预测股市的paper么，Twitter mood predicts the stock market，这就是作者成立的公司了。
 
+- Malluba ： http://www.maluuba.com/ ，　Advancing the collective intelligence of humans and machines through Deep Learning.　Yoshua Bengio as the advisor.
+
 - Nara：http://www.nara.me/    餐馆推荐
 
 - http://www.recommind.com/ ，PLSA作者。
