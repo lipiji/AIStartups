@@ -56,6 +56,8 @@
 
 - Clarifai： http://www.clarifai.com/ ， CV领域的创业公司，基于DL的结果非常好，公司价值就不知道了。
 
+- CVC： http://www.cyc.com/ ， Cycorp is a leading provider of semantic technologies that bring a new level of intelligence and common sense reasoning to a wide variety of software applications. 
+
 
 - Ersatz：http://www.ersatz1.com/ ， deep learning解决客户的问题。
 
