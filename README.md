@@ -143,6 +143,8 @@
 
 - Malluba ： http://www.maluuba.com/ ，　Advancing the collective intelligence of humans and machines through Deep Learning.　Yoshua Bengio as the advisor.
 
+- Moodstocks ： https://moodstocks.com/ ， Google在昨日（7月6日）宣布正式收购法国创业公司Moodstacks。该公司主要为智能手机开发以机器学习为基础的图像识别技术，其API被开发者们形容为“影像界的Shazam（一款知名音乐识别软件）”。
+
 - Nara：http://www.nara.me/    餐馆推荐
 
 - http://www.recommind.com/ ，PLSA作者。
