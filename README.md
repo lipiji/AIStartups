@@ -180,5 +180,7 @@
 
 - Trifacta ： https://www.trifacta.com/ ， 新闻:大数据清理软件公司Trifacta 融资3500 万美元 
 
+- VisionLabs : http://www.visionlabs.ru/en/ , VisionLabs 成立于2012年，其开发的 Luna 面部识别软件能基于照片或视频图像，帮助企业客户立刻识别、验证客户。Luna软件不仅拥有高质量的识别能力，而且也有先进的类型识别技术.
+
 ### 其他收集页
 - SIFT作者David Lowe收集的计算机视觉公司： The Computer Vision Industry - http://www.cs.ubc.ca/~lowe/vision.html  
