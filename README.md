@@ -43,6 +43,8 @@
 
 - MagicLeap ： http://www.magicleap.com/ ， 虚拟现实  增强现实
 
+- Apaca : http://www.alpaca.ai/ , AI和金融的结合
+
 - arria：http://www.arria.com/ ，自然语言生成。
 
 - AlchemyAPI：http://www.alchemyapi.com/ ， deep learning、NLP等的API，demo也不错。
