@@ -51,7 +51,6 @@
 
 -  Alphasense： https://www.alpha-sense.com/ ， 是一个解决专业信息获取和碎片问题的金融搜索引擎。Alphasense面向金融投资领域，从文件/新闻和研究中集合所有投资信息并进行语义分析，在全球公司数据中进行趋势分析。其使命愿景是从大量噪音中寻找有价值的信息，专注信息丰富度和碎片化基本问题，从而大大提高金融人士的工作效率，节省工作时间。 from@文因互联
 
-
 - Everstring：http://www.everstring.com/ ， 团队很强大。
 
 - Enlitic： http://www.enlitic.com/ ， Enlitic于2014年8月在三藩市成立，采用深度学习和图像分析帮助医生做出诊断并标记出医学图像中的异常，从而让医疗更加精确和更有效率。例如，Enlitic可以分析X光、核磁共振成像或CT扫描得到的医学图像，然后找出数据中的趋势或单个图像中的异常情况。
@@ -146,6 +145,8 @@
 - Guidewave consulting LLC http://guidewaveconsulting.com/ ，还记得那篇用twitter中用户的情绪来预测股市的paper么，Twitter mood predicts the stock market，这就是作者成立的公司了。
 
 - Malluba ： http://www.maluuba.com/ ，　Advancing the collective intelligence of humans and machines through Deep Learning.　Yoshua Bengio as the advisor.
+
+－mobileye　：http://www.mobileye.com/ , 特斯拉的自动驾驶辅助系统就是来源于这家以色列的公司，牛。。
 
 - Moodstocks ： https://moodstocks.com/ ， Google在昨日（7月6日）宣布正式收购法国创业公司Moodstacks。该公司主要为智能手机开发以机器学习为基础的图像识别技术，其API被开发者们形容为“影像界的Shazam（一款知名音乐识别软件）”。
 
