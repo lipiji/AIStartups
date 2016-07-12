@@ -67,6 +67,8 @@
 
 - Semantic Machines： http://www.semanticmachines.com/  自动问答和对话
 
+- SalesPredict :　http://www.salespredict.com/　，　SalesPredict公司创建于2012年，专门通过该公司的分析服务来帮助企业增加收入，SalesPredict的分析服务可以预测业务的理想潜力与发展前景，因此帮助企业提升他们与实际客户的转化率，从而达成最终的交易协议。
+
 - GrowingIO：https://www.growingio.com/ ，一个网站和移动端数据分析平台，通过数据分析驱动企业决策
 
 - GoButler ： http://www.gobutler.com/ ， 24小时私人助理，通过短信帮你订外卖，帮你买机票等等（与Magic是竞争对手）。
