@@ -185,6 +185,8 @@
 
 - statmuse ： https://www.statmuse.com/ ， 帮助普通用户通过自然语言查询 NBA 数据的初创企业 StatMuse 刚刚获得了 1000 万美元的 A 轮融资。
 
+- Sprinklr ： https://www.sprinklr.com/ ， Sprinklr 成立于2009年，总部位于纽约，是一家为企业用户提供社交媒体跨平台整合管理工具和服务的公司。利用 Sprinklr 的社交媒体管理平台，企业用户可以在这一个平台上同时管理多个社交媒体上的内容、广告，分析数据，开展营销活动，了解用户体验，销售，等等。此外，Sprinklr在2015年推出了“体验云”（Experience Cloud）服务，提供了19个社交媒体管理模块，可以让品牌商在23个社交渠道和品牌网站上持续地创建、管理和优化有价值的用户体验。
+
 - Trifacta ： https://www.trifacta.com/ ， 新闻:大数据清理软件公司Trifacta 融资3500 万美元 
 
 - VisionLabs : http://www.visionlabs.ru/en/ , VisionLabs 成立于2012年，其开发的 Luna 面部识别软件能基于照片或视频图像，帮助企业客户立刻识别、验证客户。Luna软件不仅拥有高质量的识别能力，而且也有先进的类型识别技术.
