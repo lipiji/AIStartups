@@ -191,6 +191,8 @@
 
 - Trifacta ： https://www.trifacta.com/ ， 新闻:大数据清理软件公司Trifacta 融资3500 万美元 
 
+- The Curious AI Company ： http://www.thecuriousaicompany.com/ ， 无监督学习，  Ladder Networks technology
+
 - VisionLabs : http://www.visionlabs.ru/en/ , VisionLabs 成立于2012年，其开发的 Luna 面部识别软件能基于照片或视频图像，帮助企业客户立刻识别、验证客户。Luna软件不仅拥有高质量的识别能力，而且也有先进的类型识别技术.
 
 - ZestFinance ： https://www.zestfinance.com/ ， 北京时间7月18日下午消息，百度今天宣布，该公司将向美国金融科技公司ZestFinance进行数额未明的投资，后者将机器学习与大数据分析融合起来提供更加精准的信用评分。 作为此次投资的一部分，百度将使用ZestFinance的技术来判断其用户的信用。例如，如果未成年人用户在工作日搜索视频游戏，表示此人可能没有工作，而且不是学生，这项数据便可以用于判断此人的信用状况。
