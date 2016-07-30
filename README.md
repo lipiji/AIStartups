@@ -63,6 +63,7 @@
 
 - CYC： http://www.cyc.com/ ， Cycorp is a leading provider of semantic technologies that bring a new level of intelligence and common sense reasoning to a wide variety of software applications. 
 
+- DeepArt ： https://deepart.io ， Neural Art
 
 - Ersatz：http://www.ersatz1.com/ ， deep learning解决客户的问题。
 
@@ -182,6 +183,8 @@
 - metamind ：https://www.metamind.io/ ，斯坦福深度学习博士Richard Socher貌似并未直接赶赴普林斯顿大学担任教职，而是在硅谷进行深度学习创业，目前得到800万美金的资金支持。据其介绍，其网站能通过点鼠标以及托、拉、提、拽的操作进行深度学习模型训练。DEMO: http://t.cn/RzKkWDY Wired:http://t.cn/RzKkWDl
 
 - Import.io：https://www.import.io/  ， Import.io 是一家大数据初创企业，成立于 2012年，总部位于英国伦敦。它的数据析取平台可以将网站、论坛等来源的结构化数据析取出来，供客户用于大数据分析。
+
+- Prisma ：http://prisma-ai.com/　　Neural Art
 
 - Synapsify：http://www.gosynapsify.com/ ， 非结构化文本的观点提取， Synapsify构建了能在语义上阅读和学习类似人类书写内容的应用，可以用于加速发现、观点提取和建议。这家公司的愿景是让所有人都可以在没有技术专家和资源的情况下使用机器智能得到可操作的观点和发现，并从中受益。（from机器之心）
 
