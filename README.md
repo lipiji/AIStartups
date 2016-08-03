@@ -97,6 +97,8 @@
 
 - idibon： http://idibon.com ，Idibon helps companies understand their language data. Using cutting-edge natural language processing, Idibon takes unstructured data like emails, instant messages and social media, and provides structured answers to key business intelligence questions.
 
+- Indico : https://indico.io/ , Combine your skills with the power of machine learning to discover the true potential of your text and image data.
+
 - etcML：http://www.etcml.com/ ，斯坦福的文本处理工具
 
 - ClearStory ：http://www.clearstorydata.com/ ， 商业世界中数据量不断扩大，有很多大数据公司都在解决商业智能和数据分析的需求。ClearStory也是其中一家，它也会从不同数据源收集信息并进行分析，供企业做决策参考。首先，ClearStory 将各种分散的数据源整合起来，每个数据源都由各自的特性和 API，而 ClearStory 将会首先寻找不同层级的数据之间的联系。其次，ClearStory 将会重建一个新的数据层，并用图形化的方式将此展现给数据分析师们。
