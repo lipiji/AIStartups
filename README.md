@@ -6,6 +6,8 @@
 
 - 商汤科技： http://www.sensetime.com/cn ， 香港中文大学汤晓鸥教授及其团队。该实验室cv技术一流。
 
+- 范数科技：http://www.lpnorm.com/ ， 数据汇聚、抽取，知识图谱，人工智能。
+
 - 明略数据：http://www.mininglamp.com/index 
 
 - 普林科技：http://www.princetechs.com/ ， 普林科技是一家专业从事大数据建模与分析，为金融、移动运营商、交通物流、医疗卫生等相关领域客户提供服务的咨询服务公司。普林科技在北京、上海均设有办事处，并拥有位于美国普林斯顿的研发中心，公司核心成员均拥有世界顶尖高校教育背景及顶级大数据企业工作经历，涵盖国际应用数学、计算机和金融领域专家。http://www.xtecher.com/Website/Article/view?aid=100 
@@ -24,8 +26,6 @@
 
 - 车瑞科技：http://www.cherui.cn/ ，基于视觉的行车安全。
 
-- 范数科技：http://www.lpnorm.com/ ， 数据
-
 - 思派网络：肿瘤数据银行 中国的“Flatiron” ，完成A轮逾千万美元融资-2016-01-28
  
 - 文因互联（Memect）： http://memect.cn/ 金融数据知识图谱，语义搜索引擎 
@@ -39,6 +39,9 @@
 - 医渡云： http://www.yiducloud.com.cn/ ， 致力于通过世界领先的大数据技术，助力医院及医生，为患者提供更好的医疗服务
 
 - 博云视觉 ： http://www.boyunvision.com.cn/ ，  博云视觉（北京）科技有限公司是一家专注于视觉搜索与分析技术研究和应用的科技创新公司。公司核心创始团队来自于北京大学数字视频编解码国家工程实验室，多年来致力于视觉搜索与分析算法的深度研究，以及产业化应用。
+
+- 医学 ： http://www.hintontech.cn/ ， AI4MED致力于将人工智能技术应用于医疗领域
+这些技术包括:知识表示与推理, 机器学习, 概率图模型, 深度学习.
 
 ### 国外
 - Palantir：https://www.palantir.com/
