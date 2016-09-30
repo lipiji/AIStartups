@@ -158,7 +158,7 @@
 
 - Malluba ： http://www.maluuba.com/ ，　Advancing the collective intelligence of humans and machines through Deep Learning.　Yoshua Bengio as the advisor.
 
-－mobileye　：http://www.mobileye.com/ , 特斯拉的自动驾驶辅助系统就是来源于这家以色列的公司，牛。。
+- mobileye　：http://www.mobileye.com/ , 特斯拉的自动驾驶辅助系统就是来源于这家以色列的公司，牛。。
 
 - Moodstocks ： https://moodstocks.com/ ， Google在昨日（7月6日）宣布正式收购法国创业公司Moodstacks。该公司主要为智能手机开发以机器学习为基础的图像识别技术，其API被开发者们形容为“影像界的Shazam（一款知名音乐识别软件）”。
 
