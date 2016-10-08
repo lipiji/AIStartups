@@ -164,6 +164,8 @@
 
 - Nara：http://www.nara.me/    餐馆推荐
 
+- Nugit ： https://nugit.co ， Nugit所研发的人工智能能够实时的从不同的数据源对数据进行提取集成。同时Nugit还具有自然语言生成技术，能够从数据中得出结论同时转化为智能、设计精美的报告并通过电子邮件或PPT呈现出
+
 - http://www.recommind.com/ ，PLSA作者。
 
 - http://www.wiseathena.com ，Big data startup Wise Athena has presented this week their novel approach to churn prediction based on deep learning technology. This way, the San Francisco based company becomes the first company to apply deep learning to customer churn prediction.
