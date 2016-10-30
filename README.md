@@ -26,7 +26,7 @@
 
 - 车瑞科技：http://www.cherui.cn/ ，基于视觉的行车安全。
 
-- 思派网络：肿瘤数据银行 中国的“Flatiron” ，完成A轮逾千万美元融资-2016-01-28
+- 思派网络：http://www.sipaiwangluo.com/ ， 肿瘤数据银行 中国的“Flatiron” ，2016年1月份完成A轮逾千万美元融资， 2016年6月份完成B轮融资。
  
 - 文因互联（Memect）： http://memect.cn/ 金融数据知识图谱，语义搜索引擎 
 
