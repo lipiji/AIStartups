@@ -74,6 +74,8 @@
 
 - DeepArt ： https://deepart.io ， Neural Art
 
+- Diffbot： https://www.diffbot.com/ ， 信息抽取
+
 - Ersatz：http://www.ersatz1.com/ ， deep learning解决客户的问题。
 
 - Etleap ：http://etleap.com/　，　Etleap推出云端的数据清洗产品。 该公司的创始人曾经是VigLink的CTO， 深为理解工程师和分析师在数据ETL过程中花费的大量时间， 因此离职后创办了Etleap来解决这个痛点。　数据清洗这个领域的重头玩家当属Informatica, 今年早期私有化。Talend，聚焦在Hadoop的数据整合公司正在IPO准备当中。初创公司如Trifacta和Paxata在过去的两年中使得这个领域更加迷人。
