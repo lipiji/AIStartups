@@ -219,5 +219,9 @@
 
 - ZestFinance ： https://www.zestfinance.com/ ， 北京时间7月18日下午消息，百度今天宣布，该公司将向美国金融科技公司ZestFinance进行数额未明的投资，后者将机器学习与大数据分析融合起来提供更加精准的信用评分。 作为此次投资的一部分，百度将使用ZestFinance的技术来判断其用户的信用。例如，如果未成年人用户在工作日搜索视频游戏，表示此人可能没有工作，而且不是学生，这项数据便可以用于判断此人的信用状况。
 
+####Security
+
+- RiskIQ ：https://www.riskiq.com/ ， RiskIQ 创立于 2009 年，总部位于旧金山，致力于让企业及组织客户能够访问安全智能和应用程序，从而保护数字攻击面、定位业务风险。客户能够随时发现和处理恶意软件、恶意广告和恶意 App，降低网络、移动及社交工具的威胁。RiskIQ 通过全球代理网络每天持续扫描数以千万计的网站，随时向客户报告异常情况。据悉美国前十大金融机构中有八家都适用 RiskIQ 追踪监控企业 web 和移动应用资产。
+
 ### 其他收集页
 - SIFT作者David Lowe收集的计算机视觉公司： The Computer Vision Industry - http://www.cs.ubc.ca/~lowe/vision.html  
