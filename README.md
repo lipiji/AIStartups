@@ -53,6 +53,8 @@
 - Momenta ：Momenta成立于2016年9月初，是一个致力于打造无人车大脑，专注基于深度学习的环境感知、高精度地图、驾驶决策技术的团队。产品包括不同级别的自动驾驶方案，以及衍生出的大数据服务。Momenta团队来源于清华大学、麻省理工学院、微软亚洲研究院等。其中有世界顶尖的深度学习专家，例如图像识别领域最先进的框架Faster R-CNN和ResNet的作者，mageNet 2015、MS COCO Challenge 2015多项比赛冠军。因此团队拥有深厚的技术积累和极强的技术原创力。
 
 ### 国外
+- api.ai ： https://api.ai/ ， Build brand-unique, natural language interactions for bots, applications, services, and devices.
+
 - Palantir：https://www.palantir.com/
 
 - MagicLeap ： http://www.magicleap.com/ ， 虚拟现实  增强现实
