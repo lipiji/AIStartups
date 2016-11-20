@@ -52,6 +52,8 @@
 
 - Momenta ：Momenta成立于2016年9月初，是一个致力于打造无人车大脑，专注基于深度学习的环境感知、高精度地图、驾驶决策技术的团队。产品包括不同级别的自动驾驶方案，以及衍生出的大数据服务。Momenta团队来源于清华大学、麻省理工学院、微软亚洲研究院等。其中有世界顶尖的深度学习专家，例如图像识别领域最先进的框架Faster R-CNN和ResNet的作者，mageNet 2015、MS COCO Challenge 2015多项比赛冠军。因此团队拥有深厚的技术积累和极强的技术原创力。
 
+- 小鱼在家： http://www.zaijia.com/ ， 小鱼在家主打音视频通讯的家庭陪伴功能，今年2015年1月上市，6月开始量产，至今已经不短。据CEO宋晨枫介绍，用户反馈非常正面，80%的应用都是围绕着孩子，20%左右是围绕着老人，用户的黏性也不错，用户平均每天6-8次通话，每周累计通话75分钟，周活跃终端比例达到90%。他们也进驻了几十家线下体验店，线下销量在稳步上涨，但仍比线上少很多。
+
 ### 国外
 - api.ai ： https://api.ai/ ， Build brand-unique, natural language interactions for bots, applications, services, and devices.
 
