@@ -221,6 +221,8 @@
 
 - Sprinklr ： https://www.sprinklr.com/ ， Sprinklr 成立于2009年，总部位于纽约，是一家为企业用户提供社交媒体跨平台整合管理工具和服务的公司。利用 Sprinklr 的社交媒体管理平台，企业用户可以在这一个平台上同时管理多个社交媒体上的内容、广告，分析数据，开展营销活动，了解用户体验，销售，等等。此外，Sprinklr在2015年推出了“体验云”（Experience Cloud）服务，提供了19个社交媒体管理模块，可以让品牌商在23个社交渠道和品牌网站上持续地创建、管理和优化有价值的用户体验。
 
+- Solvvy： https://www.solvvy.com/ ，  Solvvy位于美国加利福尼亚州帕洛阿尔托，是一家机器学习初创公司，旨在用领先的机器学习技术重塑企业的客户体验。该公司的第一个产品是Solvvy for Support，能帮助企业在没有人为干预的情况下回答大量的支持请求。在提交请求时，用户使用日常语言陈述他们的问题，Solvvy则可以用精确的答案来解答问题，这消除了客户的等待时间。如果某个特定的问题需要人工来解答，则会被转接到人工支持。由于整个过程减少了客服人员的参与，及时而准确的回答在提高客户满意度的同时，也降低了企业的成本。
+
 - Trifacta ： https://www.trifacta.com/ ， 新闻:大数据清理软件公司Trifacta 融资3500 万美元 
 
 - The Curious AI Company ： http://www.thecuriousaicompany.com/ ， 无监督学习，  Ladder Networks technology
