@@ -227,6 +227,8 @@
 
 - Trifacta ： https://www.trifacta.com/ ， 新闻:大数据清理软件公司Trifacta 融资3500 万美元 
 
+- Twentybn: https://www.twentybn.com/ ,  We teach machines to perceive the world like humans  视频理解
+
 - The Curious AI Company ： http://www.thecuriousaicompany.com/ ， 无监督学习，  Ladder Networks technology
 
 - VisionLabs : http://www.visionlabs.ru/en/ , VisionLabs 成立于2012年，其开发的 Luna 面部识别软件能基于照片或视频图像，帮助企业客户立刻识别、验证客户。Luna软件不仅拥有高质量的识别能力，而且也有先进的类型识别技术.
