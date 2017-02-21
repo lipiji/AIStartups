@@ -86,6 +86,10 @@
 
 - Clarifai： http://www.clarifai.com/ ， CV领域的创业公司，基于DL的结果非常好，公司价值就不知道了。
 
+- RealFace : http://www.realfacetech.com/ , 人脸识别公司，被苹果收购。2017年。
+
+- CrunchBase ： https://www.crunchbase.com ， CrunchBase是一个以Web 2.0方式表达的创业公司数据库，包含了创始人，关键雇员，财务状况，收购新闻以及其他重要事件。此外，CrunchBase也包含了知名创业人物及投资者的信息。CrunchBase开始于2007年。
+
 - CYC： http://www.cyc.com/ ， Cycorp is a leading provider of semantic technologies that bring a new level of intelligence and common sense reasoning to a wide variety of software applications. 
 
 - DeepArt ： https://deepart.io ， Neural Art
