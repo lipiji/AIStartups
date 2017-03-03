@@ -60,6 +60,8 @@
 
 - 达闼科技 ， http://cn.cloudminds.com ， 成立于2015年初,云端智能机器人运营商,专注于实现云端智能机器人运营级别的安全云计算网络、大型混合人工智能机器学习平台、以及安全智能终端和机器人控制器技术研究。公司由国家“千人计划”首批特聘专家、前美国UT斯达康公司CTO、中国移动研究院院长黄晓庆先生发起成立,软银国际孙正义先生是创始股东之一。
 
+- iPIN ： http://ipin.com ， iPIN 致力于打造一个更加广泛的商业认知平台，涵盖商业语言理解和智能信息分析。iPIN 的 AI+ 模块已经被广泛应用到教育、招聘、生涯规划、法律、金融等各种商业场景，帮助人们在充满挑战的环境中更高效地工作，实现决策智能化。
+
 
 ### 国外
 - api.ai ： https://api.ai/ ， Build brand-unique, natural language interactions for bots, applications, services, and devices.
