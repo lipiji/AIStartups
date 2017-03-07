@@ -251,6 +251,10 @@
 
 - Heuritech http://www2.heuritech.com/ ， 数据抽取和结构化。
 
+- Jukedeck : https://www.jukedeck.com/ , Use artificial intelligence to revolutionise the way people and companies make and consume music.
+
+
+
 #### ChatBot
 
 - Conversable , http://conversable.com/ , Conversational Intelligence is about giving end users what they want. 
