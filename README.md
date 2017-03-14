@@ -76,6 +76,8 @@
 
 - arria：http://www.arria.com/ ，自然语言生成。
 
+- Automated Insights: https://automatedinsights.com/ , Automated Insights（前3轮共融资1080万美金，并于2015年被美国私募股权基金 Vista Equity Partners以8000万美金的价格收购）.Automated Insights的主要产品是WordSmith，该产品已经在美国联合通讯社（The Associated Press）和雅虎得到成功应用，用于撰写财新和体育类报道。让人惊叹的是，美联社在采用Automated Insights的文本生成技术后，每季度可以撰写的财报新闻数量从300篇增加到了4300篇，生产力得到了极大的提高【http://www.weibo.com/ttarticle/p/show?id=2309404084909441432793】。
+
 - AlchemyAPI：http://www.alchemyapi.com/ ， deep learning、NLP等的API，demo也不错。
 
 -  Alphasense： https://www.alpha-sense.com/ ， 是一个解决专业信息获取和碎片问题的金融搜索引擎。Alphasense面向金融投资领域，从文件/新闻和研究中集合所有投资信息并进行语义分析，在全球公司数据中进行趋势分析。其使命愿景是从大量噪音中寻找有价值的信息，专注信息丰富度和碎片化基本问题，从而大大提高金融人士的工作效率，节省工作时间。 from@文因互联
