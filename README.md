@@ -74,9 +74,13 @@
 
 - Apaca : http://www.alpaca.ai/ , AI和金融的结合
 
+- Syllabs , https://www.syllabs.com/ , An agency of robot writers that turn your data into texts (articles, customized emails, reports, product info sheets etc.). Give a voice to your data. After being configured by our linguists, each robot can write several thousand quality texts per hour. Besides, our robots are multilingual!
+
 - arria：http://www.arria.com/ ，自然语言生成。
 
-- Automated Insights: https://automatedinsights.com/ , Automated Insights（前3轮共融资1080万美金，并于2015年被美国私募股权基金 Vista Equity Partners以8000万美金的价格收购）.Automated Insights的主要产品是WordSmith，该产品已经在美国联合通讯社（The Associated Press）和雅虎得到成功应用，用于撰写财新和体育类报道。让人惊叹的是，美联社在采用Automated Insights的文本生成技术后，每季度可以撰写的财报新闻数量从300篇增加到了4300篇，生产力得到了极大的提高【http://www.weibo.com/ttarticle/p/show?id=2309404084909441432793】。
+- Yseop : https://yseop.com/ , Yseop is an artificial intelligence enterprise software company whose natural language generation products automate reasoning, dialog, and writing in multiple languages. Yseop offers Yseop Compose, the only self-service enterprise-level language generation technology on the market. Yseop also builds bespoke solutions helping businesses leverage data, automate business processes, and aid in their digital transformation.
+
+- Automated Insights: https://automatedinsights.com/ , Automated Insights（前3轮共融资1080万美金，并于2015年被美国私募股权基金 Vista Equity Partners以8000万美金的价格收购）.Automated Insights的主要产品是WordSmith，该产品已经在美国联合通讯社（The Associated Press）和雅虎得到成功应用，用于撰写财新和体育类报道。让人惊叹的是，美联社在采用Automated Insights的文本生成技术后，每季度可以撰写的财报新闻数量从300篇增加到了4300篇，生产力得到了极大的提高。
 
 - AlchemyAPI：http://www.alchemyapi.com/ ， deep learning、NLP等的API，demo也不错。
 
