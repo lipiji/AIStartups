@@ -259,6 +259,7 @@
 
 - Jukedeck : https://www.jukedeck.com/ , Use artificial intelligence to revolutionise the way people and companies make and consume music.
 
+- veritone ， https://www.veritone.com/ ， 国人工智能(AI)创业公司Veritone日前正式提交了IPO招股书，计划融资1500万美元，股票代码定为“VERI”。Veritone开发出了一个专属人工智能平台，旨在充分利用认知计算的能力。这是一个基于云的开放式平台，目前已整合了40多个知名认知计算引擎，主要来自谷歌(微博)、微软、IBM和惠普等公司。其目的是从大量的音频，视频和结构化数据中提取各种有价值的信息。
 
 
 #### ChatBot
