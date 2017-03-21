@@ -70,6 +70,8 @@
 
 - Algo AI: https://www.argo.ai/ , 福特斥资10亿美元投资自动驾驶初创公司Argo AI
 
+- Auto X： http://www.autox.ai/ ， 肖健雄，自动驾驶。
+
 - MagicLeap ： http://www.magicleap.com/ ， 虚拟现实  增强现实
 
 - Apaca : http://www.alpaca.ai/ , AI和金融的结合
