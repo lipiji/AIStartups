@@ -6,7 +6,7 @@
 
 - 商汤科技： http://www.sensetime.com/cn ， 香港中文大学汤晓鸥教授及其团队。该实验室cv技术一流。
 
-- 范数科技：http://www.lpnorm.com/ ， 数据汇聚、抽取，知识图谱，人工智能。
+- 范数科技：http://www.lpnorm.com/ ， 文本生成，自动写作，数据汇聚、抽取，知识图谱，人工智能。
 
 - 明略数据：http://www.mininglamp.com/index 
 
