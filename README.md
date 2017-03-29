@@ -62,6 +62,8 @@
 
 - iPIN ： http://ipin.com ， iPIN 致力于打造一个更加广泛的商业认知平台，涵盖商业语言理解和智能信息分析。iPIN 的 AI+ 模块已经被广泛应用到教育、招聘、生涯规划、法律、金融等各种商业场景，帮助人们在充满挑战的环境中更高效地工作，实现决策智能化。
 
+- 神策数据：https://www.sensorsdata.cn ， 数据管理、分析、可视化。
+
 
 ### 国外
 - api.ai ： https://api.ai/ ， Build brand-unique, natural language interactions for bots, applications, services, and devices.
