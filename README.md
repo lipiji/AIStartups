@@ -64,6 +64,8 @@
 
 - 神策数据：https://www.sensorsdata.cn ， 数据管理、分析、可视化。
 
+- 天壤智能： https://tianrang.com ， CEO是薛贵荣博士。
+
 
 ### 国外
 - api.ai ： https://api.ai/ ， Build brand-unique, natural language interactions for bots, applications, services, and devices.
