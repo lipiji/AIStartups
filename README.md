@@ -271,6 +271,8 @@
 
 - Drive.ai : https://www.drive.ai/ , 自动驾驶。
 
+- AKA :　http://www.akaintelligence.com/　，　机器人家庭教师Musio在日本首次亮相：主打个性化．
+
 
 #### ChatBot
 
