@@ -68,6 +68,8 @@
 
 - Clare.AI https://www.clare.ai/ ， 香港创业公司，chatbot在银行金融领域的客户服务应用。
 
+- WifiPix http://www.wifipix.com 
+
 
 ### 国外
 - api.ai ： https://api.ai/ ， Build brand-unique, natural language interactions for bots, applications, services, and devices.
