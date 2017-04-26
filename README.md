@@ -275,6 +275,8 @@
 
 - Babylon Health ： https://www.babylonhealth.com/ ， Babylon Health 的最主要产品是一款集合了人工智能 （聊天机器人：triage）、供用户和医疗专业人士进行视频交流、并提供相关咨询方案的 APP。这笔新融资将用于进一步提升 AI 的功能拓展，包括提供 AI 的诊断（而不是更简单的分类咨询），这一功能计划在今年晚些时候推出。Babylon Health 创立于 2013 年，在2016 年完成了 2500 万美元的 A 轮融资。
 
+- Ada Health ： https://ada.com/ ， 医疗诊断咨询app。
+
 - Conversable , http://conversable.com/ , Conversational Intelligence is about giving end users what they want. 
 
 ####玩具
