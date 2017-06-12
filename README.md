@@ -72,6 +72,8 @@
 
 - DT稿王 ：http://writingmaster.cn , DT稿王的价值在于发挥大数据的优势，通过智能化服务，提高写作效率、优化内容、提升内容创作的质和量； 并提供丰富的资讯产品和技术服务，达到事半功倍的效果。
 
+- 宜远智能 ： http://yiyuan.ai/ ， 医疗影像、机器学习。
+
 
 ### 国外
 - api.ai ： https://api.ai/ ， Build brand-unique, natural language interactions for bots, applications, services, and devices.
