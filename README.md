@@ -30,8 +30,6 @@
  
 - 文因互联（Memect）： http://memect.cn/ 金融数据知识图谱，语义搜索引擎 
 
-- 八友科技：梁斌，数据、分词等
-
 - 图普科技 ：https://open.tuputech.com/ , 基于深度学习的图像识别技术多维度解读图片和视频
 
 - 玻森 ： http://bosonnlp.com/ ， 玻森中文语义开放平台提供使用简单、功能强大、性能可靠的中文自然语言分析云服务。
@@ -286,6 +284,8 @@
 - Conversable , http://conversable.com/ , Conversational Intelligence is about giving end users what they want. 
 
 - DeepMap : https://www.deepmap.ai/ , 自动驾驶。
+
+- Plus.AI : http://plus.ai/ , 自动驾驶。
 
 ####玩具
 
