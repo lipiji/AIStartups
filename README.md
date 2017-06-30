@@ -72,6 +72,8 @@
 
 - 宜远智能 ： http://yiyuan.ai/ ， 医疗影像、机器学习。
 
+- 麦迪雷达 ： MediRadar ， 专注于消化道方向，MediRadar致力于将深度学习应用于医疗影像自动化诊断。
+
 
 ### 国外
 - api.ai ： https://api.ai/ ， Build brand-unique, natural language interactions for bots, applications, services, and devices.
