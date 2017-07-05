@@ -295,6 +295,8 @@
 
 - Jingchi.ai : 自动驾驶。
 
+- KITT.ai ： http://kitt.ai/  ， NLP
+
 
 ####玩具
 
