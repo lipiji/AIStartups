@@ -74,6 +74,9 @@
 
 - 麦迪雷达 ： MediRadar ， 专注于消化道方向，MediRadar致力于将深度学习应用于医疗影像自动化诊断。
 
+- 蓦然认知 : http://mor.ai , 蓦然认知（又名：小蓦机器人）是一家以认知计算、自然语言理解技术为核心的人工智能公司,提供信号处理+语音+ 语义+云端服务自动对接的一站式智能交互解决方案。
+
+
 
 ### 国外
 - api.ai ： https://api.ai/ ， Build brand-unique, natural language interactions for bots, applications, services, and devices.
