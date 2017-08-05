@@ -78,6 +78,8 @@
 
 - 阡寻科技 ： http://www.chancein.cn/ ， NLP在金融应用。
 
+- 语知科技 ： http://www.yuzhinlp.com/  NLP服务。
+
 
 
 ### 国外
