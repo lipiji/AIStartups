@@ -80,6 +80,10 @@
 
 - 语知科技 ： http://www.yuzhinlp.com/  NLP服务。
 
+- 页码科技 ：https://www.eyespage.com/ ， 搜索和推荐。
+
+- 深知无限 ：http://www.aitcbeijing.com/　，　文本挖掘，信息抽取。
+
 
 
 ### 国外
