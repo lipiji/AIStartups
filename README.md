@@ -84,6 +84,8 @@
 
 - 深知无限 ：http://www.aitcbeijing.com/　，　文本挖掘，信息抽取。
 
+- 图玛深维 ： http://www.12sigma.cn ， 医学。
+
 
 
 ### 国外
