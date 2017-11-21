@@ -310,6 +310,8 @@
 
 - KITT.ai ： http://kitt.ai/  ， NLP
 
+- Embodied Intelligence : Pieter Abbeel大神参与的公司。 Embodied Intelligence wants to use AI and VR to teach robots new skills, like how to manipulate wires, much faster.  
+
 
 ####玩具
 
