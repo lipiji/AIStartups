@@ -86,6 +86,8 @@
 
 - 图玛深维 ： http://www.12sigma.cn ， 医学。
 
+- 香侬科技：  Jiwei Li在。
+
 
 
 ### 国外
@@ -100,6 +102,8 @@
 - MagicLeap ： http://www.magicleap.com/ ， 虚拟现实  增强现实
 
 - Apaca : http://www.alpaca.ai/ , AI和金融的结合
+
+- Orbit ： http://www.orbitsentiment.com/  金融类NLP。
 
 - Syllabs , https://www.syllabs.com/ , An agency of robot writers that turn your data into texts (articles, customized emails, reports, product info sheets etc.). Give a voice to your data. After being configured by our linguists, each robot can write several thousand quality texts per hour. Besides, our robots are multilingual!
 
