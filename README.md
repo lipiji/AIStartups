@@ -105,6 +105,8 @@
 
 - Orbit ： http://www.orbitsentiment.com/  金融类NLP。
 
+- landing.ai ： https://www.landing.ai/ ， Andrew Ng的公司。
+
 - Syllabs , https://www.syllabs.com/ , An agency of robot writers that turn your data into texts (articles, customized emails, reports, product info sheets etc.). Give a voice to your data. After being configured by our linguists, each robot can write several thousand quality texts per hour. Besides, our robots are multilingual!
 
 - arria：http://www.arria.com/ ，自然语言生成。
