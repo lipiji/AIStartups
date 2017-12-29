@@ -318,6 +318,7 @@
 
 - Embodied Intelligence : Pieter Abbeel大神参与的公司。 Embodied Intelligence wants to use AI and VR to teach robots new skills, like how to manipulate wires, much faster.  
 
+- NovuMind : http://www.novumind.com/ 不知道做啥的
 
 ####玩具
 
