@@ -88,8 +88,6 @@
 
 - 香侬科技：  Jiwei Li在。
 
-- 语知科技： http://www.yuzhinlp.com/
-
 
 
 ### 国外
