@@ -107,6 +107,8 @@
 
 - landing.ai ： https://www.landing.ai/ ， Andrew Ng的公司。
 
+- Predicta ： https://www.predicta.com/    自动化市场情报公司 Predicta, Inc. (Mcminnville, OR, 97128) 完成融资 $1,100,997 美元，创建了一项人工智能服务，自动对品牌及其产品进行市场调查。客户包括快销品公司，包括化妆品、户外和体育用品、家居装饰、食品和饮料等。Predicta 把网络上公开的大量非结构化数据提炼成关于任何主题的关于消费者感知，思想和感受的简单直观的情报。 来自@硅新社
+
 - Syllabs , https://www.syllabs.com/ , An agency of robot writers that turn your data into texts (articles, customized emails, reports, product info sheets etc.). Give a voice to your data. After being configured by our linguists, each robot can write several thousand quality texts per hour. Besides, our robots are multilingual!
 
 - arria：http://www.arria.com/ ，自然语言生成。
