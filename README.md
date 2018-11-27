@@ -88,6 +88,8 @@
 
 - 香侬科技：  Jiwei Li在。
 
+- 竹间智能： http://www.emotibot.com/  ，聊天、客服等的机器人。
+
 
 
 ### 国外
