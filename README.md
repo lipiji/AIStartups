@@ -90,6 +90,8 @@
 
 - 竹间智能： http://www.emotibot.com/  ，聊天、客服等的机器人。
 
+- Recurrent.ai: http://rcrai.com , AI赋能每一次沟通
+
 
 
 ### 国外
