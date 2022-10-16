@@ -95,6 +95,10 @@
 
 
 ### 国外
+- character.ai  persona以及knowledge的对话机器人，具体技术咋做的？
+
+- novel.ai  202210火了是因为基于stable diffusion model的图像生成质量不错。
+
 - AlphaSense : https://www.alpha-sense.com/ , AlphaSense于2011年创立，专注于为B端企业提供垂直领域的AI搜索引擎，内容包括公司文件、事件记录、专家电话记录、新闻、贸易期刊和股票研究。2019年该平台拥有1000名客户，2021年客户数量增长了110%，而现在该平台已有超过3500家企业客户，包括顶级资产管理公司和银行，以及能源、工业、消费品和科技等行业的领先公司。标普100中的75%公司、道琼斯50指数中的97%，以及美国所有大型资产管理公司和银行中的70%为其客户。
 
 - api.ai ： https://api.ai/ ， Build brand-unique, natural language interactions for bots, applications, services, and devices.
