@@ -95,6 +95,8 @@
 
 
 ### 国外
+- MidJourney: https://www.midjourney.com/  AI画画
+
 - character.ai: https://beta.character.ai/  persona以及knowledge的对话机器人，具体技术咋做的？
 
 - NovelAI: https://novelai.net/  202210火了是因为基于stable diffusion model的图像生成质量不错。
